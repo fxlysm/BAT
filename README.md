@@ -7,7 +7,7 @@
 
 # Android 测试脚本
 
-*[Event Log](https://github.com/fxlysm/BAT/blob/master/event.bat)------Android Event Log*
+*[Event Log](https://github.com/fxlysm/BAT/blob/master/event.bat)------**Android Event Log**
 
 *[KMSG Log](https://github.com/fxlysm/BAT/blob/master/kmsg.bat)------Android KMSG Log*
 
