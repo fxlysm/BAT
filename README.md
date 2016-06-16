@@ -7,14 +7,12 @@
 
 # Android 测试脚本
 
-*[Event Log](https://github.com/fxlysm/BAT/blob/master/event.bat)------**Android Event Log**
+*[Event Log](https://github.com/fxlysm/BAT/blob/master/event.bat)------Android Event Log*
 
 *[KMSG Log](https://github.com/fxlysm/BAT/blob/master/kmsg.bat)------Android KMSG Log*
 
 *[Radio Log](https://github.com/fxlysm/BAT/blob/master/radio.bat)------Android Radio Log*
 
 *[Logcat Log](https://github.com/fxlysm/BAT/blob/master/logcat.bat)------Android Logcat Log*
-
-
-*
+**
 *[Pull ANR](https://github.com/fxlysm/BAT/blob/master/pull%20anr.bat)------Pull ANR*
