@@ -1,0 +1,1 @@
+adb shell logcat -b events | tee d:\log\event.txt
