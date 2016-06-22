@@ -26,5 +26,8 @@
 
 ### 测试工具类
 *[Reboot](https://github.com/fxlysm/BAT/blob/master/RebootTest.cmd)--------自定义循环重启
+
 *[录屏工具](https://github.com/fxlysm/BAT/blob/master/Android录屏脚本.bat)--------录屏工具(自动循环保存3分钟分段视频）
+
 *[显示cpu信息](https://github.com/fxlysm/BAT/blob/master/显示cpu信息.cmd)---------显示cpu信息
+
