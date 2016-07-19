@@ -4,7 +4,7 @@
 
     adb shell monkey -f %script_path% %次数%
 
-##脚本示例script_testcase01 ## 
+##脚本示例script_testcase01## 
     
     type= user
     count= 10
@@ -32,3 +32,35 @@
      DispatchPress(KEYCODE_BACK)
    
 ## Monkey 命令说明##
+
+     C:\Users\Lambert Liu>adb shell
+     shell@Stratus_5:/ $ monkey -h
+     usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitor-native-crashes] [--ignore-native-crashes]
+              [--kill-process-after-error] [--hprof]
+              [--pct-touch PERCENT] [--pct-motion PERCENT]
+              [--pct-trackball PERCENT] [--pct-syskeys PERCENT]
+              [--pct-nav PERCENT] [--pct-majornav PERCENT]
+              [--pct-appswitch PERCENT] [--pct-flip PERCENT]
+              [--pct-anyevent PERCENT] [--pct-pinchzoom PERCENT]
+              [--pct-permission PERCENT]
+              [--pkg-blacklist-file PACKAGE_BLACKLIST_FILE]
+              [--pkg-whitelist-file PACKAGE_WHITELIST_FILE]
+              [--wait-dbg] [--dbg-no-events]
+              [--setup scriptfile] [-f scriptfile [-f scriptfile] ...]
+              [--port port]
+              [-s SEED] [-v [-v] ...]
+              [--throttle MILLISEC] [--randomize-throttle]
+              [--profile-wait MILLISEC]
+              [--device-sleep-time MILLISEC]
+              [--randomize-script]
+              [--script-log]
+              [--bugreport]
+              [--periodic-bugreport]
+              [--permission-target-system]
+              COUNT
+
+     255|shell@Stratus_5:/ $
