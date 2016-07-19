@@ -31,3 +31,4 @@
 
 *[显示cpu信息](https://github.com/fxlysm/BAT/blob/master/显示cpu信息.cmd)---------显示cpu信息*
 
+*[Monkey脚本测试](https://github.com/fxlysm/BAT/blob/master/MonkeyTest.md)--------Monkey脚本测试*
